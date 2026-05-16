@@ -13,7 +13,7 @@ It is the first format in the suite to be **meta**: it contains no lessons, quiz
 
 A CurriculumMD file is a **pure Markdown document** at level 0: a hierarchy of headings and bullet lists readable by anyone, in any editor, without tooling.
 
-CurriculumMD inherits its frontmatter and validation rules from the shared [LearnSpec Architecture Charter](https://github.com/learnspec/.github/blob/main/CHARTER.md).
+CurriculumMD inherits its frontmatter and validation rules from the shared [LearnSpec Architecture Charter](https://learnspec.org/charter/).
 
 | Principle | Description |
 |---|---|
