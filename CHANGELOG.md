@@ -7,6 +7,13 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [Unreleased]
+
+### Added
+- `description` optional frontmatter field — short plain-text summary (typically 1–3 sentences) for catalogues, alignment tools, and link previews. Distinct from the structured `level` / `domain` / `version` fields — particularly useful for CurriculumMD whose primary function is to be referenced and aligned against. Backward-compatible: existing files remain valid; no `spec_version` bump.
+
+---
+
 ## [0.1] — 2026-05-16
 
 ### Added
